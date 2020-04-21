@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TactInvoker", "TactInvoker\TactInvoker.csproj", "{0E8B7038-DAAF-4664-AA31-D6667D6908CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8B7038-DAAF-4664-AA31-D6667D6908CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8B7038-DAAF-4664-AA31-D6667D6908CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8B7038-DAAF-4664-AA31-D6667D6908CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8B7038-DAAF-4664-AA31-D6667D6908CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C75E702-E50D-4D16-9659-BDF77C43824A}
+	EndGlobalSection
+EndGlobal
